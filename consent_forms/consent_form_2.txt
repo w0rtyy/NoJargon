@@ -1,0 +1,24 @@
+PATIENT IDENTIFICATION
+Full Name: ABC
+Date of Birth: 00-00-00
+Medical Record Number: 0123456789
+Oncology Protocol: Cyclophosphamide-Doxorubicin Regimen for Stage II Breast Carcinoma
+Date: 12/12/12 Time: 00:00
+
+TREATMENT DESCRIPTION
+The regimen entails intravenous cyclophosphamide 600 mg/m² and doxorubicin 60 mg/m² on day 1, q21 days for four cycles, adjunctive to surgical resection and radiotherapy. This neoadjuvant/adjuvant therapy targets estrogen receptor-positive invasive ductal carcinoma with nodal micrometastases, per histopathological staging pT2N1M0. Premedication includes antiemetics (ondansetron, dexamethasone) and granulocyte colony-stimulating factor prophylaxis.
+
+RISKS AND COMPLICATIONS
+Acute adverse effects include grade 3-4 neutropenia (50%), febrile neutropenia (15%), nausea/vomiting (70%), alopecia (100%), and mucositis (20%). Cumulative toxicities encompass doxorubicin-induced cardiomyopathy (dose-dependent, cumulative limit 450 mg/m²), cyclophosphamide hemorrhagic cystitis (5%), and secondary leukemogenesis (1-2% at 10 years). Extravasation injury mandates immediate cessation and plastic surgery consultation.
+
+BENEFITS AND ALTERNATIVES
+Therapeutic benefits include 5-year disease-free survival improvement from 65% to 85% based on meta-analyses of anthracycline-based regimens. Alternatives comprise endocrine therapy alone (tamoxifen/aromatase inhibitors for ER+ disease, reducing recurrence by 50% but inferior for node-positive cases), CMF regimen (less cardiotoxic but lower efficacy), or clinical trial enrollment. Observation post-surgery yields 20% higher relapse risk.
+
+CONSENT ACKNOWLEDGMENT
+I affirm comprehension of the chemotherapeutic agents, dosing schedule, supportive care measures, monitoring protocols (CBC weekly, echocardiogram baseline and post-cycle 4), and contingency plans for toxicity. I consent to blood draws for therapeutic drug monitoring, research specimen banking if eligible, and reporting outcomes to tumor registries. I understand fertility preservation options were discussed, and contraception is mandated during and 6 months post-therapy.
+
+Signature of Patient/Guardian: ____________________________ Date: __________ Time: __________
+Printed Name: ____________________________ Relationship: ____________________________
+
+Witness Signature: ____________________________ Date: __________ Time: __________
+Oncologist: Dr. [Physician Name] Signature: ____________________________

@@ -1,0 +1,22 @@
+PATIENT IDENTIFICATION
+Full Name: Yash Chaudhari
+Date of Birth: 18/07/2005
+Medical Record Number: 2443110431
+Date: 17/03/25 Time: 01:40pm
+
+PROCEDURE DESCRIPTION
+The proposed intervention is laparoscopic cholecystectomy, involving excision of the gallbladder via minimally invasive ports under general anesthesia. This addresses symptomatic cholelithiasis confirmed by abdominal ultrasonography revealing multiple gallstones and mural thickening of the gallbladder fundus.
+
+RISKS AND COMPLICATIONS
+Anticipated risks include hemorrhage requiring transfusion (incidence 1-2%), bile duct injury (0.5%), postoperative wound infection (3-5%), deep vein thrombosis (1%), and conversion to open laparotomy (5-10%). Rare complications encompass anesthetic sequelae, such as malignant hyperthermia or aspiration pneumonitis. Long-term sequelae may involve post-cholecystectomy syndrome or incisional hernia.
+
+BENEFITS AND ALTERNATIVES
+Expected benefits comprise alleviation of biliary colic, prevention of acute cholecystitis, and expedited recovery with hospital discharge within 24 hours. Alternatives include conservative management with ursodeoxycholic acid (efficacy 40-60% for stone dissolution) or watchful waiting, though recurrent symptoms occur in 30% annually. No intervention carries inherent risks of progression to choledocholithiasis or pancreatitis.
+
+CONSENT ACKNOWLEDGMENT
+I confirm that the aforementioned procedure, including indications, material risks, benefits, and alternatives, has been thoroughly explained by Dr. [Physician Name]. I acknowledge receipt of an opportunity to query and that all inquiries were addressed satisfactorily. I authorize the performing surgeon, assistants, and healthcare team to administer anesthesia and conduct the procedure, including unforeseen contingencies necessitating deviation from the planned approach. I consent to disposal of excised tissues per institutional biohazard protocols and photography for educational purposes if anonymized.
+
+Signature of Patient/Guardian: ____________________________ Date: __________ Time: __________
+Printed Name: ____________________________ Relationship: ____________________________
+
+Witness Signature: ____________________________ Date: __________ Time: __________

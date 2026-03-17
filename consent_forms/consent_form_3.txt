@@ -1,0 +1,24 @@
+PATIENT IDENTIFICATION
+Full Name: Shinchan Nohara
+Date of Birth: 12/12/12
+Medical Record Number: 0987654321
+Indication: Unstable angina with positive stress echocardiogram (anterior wall hypokinesis)
+Date: 12/12/34 Time: 07:15
+
+PROCEDURE DESCRIPTION
+Right heart catheterization via femoral artery access using 6F sheath, coronary angiography with cine acquisition in multiple projections, and left ventriculography. Fractional flow reserve (FFR) assessment if intermediate stenoses identified (>50% luminal narrowing). Intervention (percutaneous coronary intervention) contingent on angiographic findings and clinical stability. Procedural sedation with midazolam/fentanyl; local anesthesia (1% lidocaine).
+
+RISKS AND COMPLICATIONS
+Periprocedural risks include vascular access hematoma (4%), retroperitoneal hemorrhage (0.5%), contrast-induced nephropathy (5% in baseline Cr >1.5 mg/dL), allergic reaction to iodinated contrast (1%), stroke (0.1%), myocardial infarction (0.1%), and mortality (0.05%). Radiation exposure approximates 5-10 mSv; arrhythmia from catheter manipulation resolves spontaneously in 95%.
+
+BENEFITS AND ALTERNATIVES
+Benefits involve definitive anatomic coronary artery delineation, guiding revascularization decisions, with sensitivity 90% and specificity 95% for obstructive disease. This facilitates risk stratification per ACC/AHA guidelines. Alternatives include coronary CT angiography (non-invasive, radiation 3-5 mSv, suboptimal in obese patients or stents), stress MRI (contraindicated with devices), or medical optimization alone (increases event rate 20% annually in high-risk cohorts).
+
+CONSENT ACKNOWLEDGMENT
+I verify that procedural details, including arterial access site, sheath removal with manual compression or closure device, post-procedure bedrest (4-6 hours), hydration protocol for renoprotection, and discharge criteria have been elucidated. I consent to potential ad hoc PCI with stent deployment and antithrombotic loading (aspirin 325 mg, clopidogrel 600 mg). I acknowledge allergy history review and premedication if indicated.
+
+Signature of Patient/Guardian: ____________________________ Date: __________ Time: __________
+Printed Name: ____________________________ Relationship: ____________________________
+
+Witness Signature: ____________________________ Date: __________ Time: __________
+Interventional Cardiologist: Dr. [Physician Name] Signature: ____________________________
