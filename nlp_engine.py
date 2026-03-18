@@ -334,12 +334,20 @@ def extract_risk_clauses(text: str) -> List[str]:
     clauses = _match_sentences(text, _RISK_PATTERNS)
 
     inline_list = re.search(
-        r"(?:risks?|complications?)[\s\w]*include[^:]*:\s*([^.]+\.)",
+        # FIX: cap match to 300 chars (was [^.]+) to prevent greedy span into
+        # the signature block at the end of the document.
+        r"(?:risks?|complications?)[\s\w]*include[^:]*:\s*([^.]{0,300}\.)",
         text, re.IGNORECASE
     )
     if inline_list:
         items = [item.strip() for item in inline_list.group(1).split(",")]
-        clauses.extend(item for item in items if len(item.split()) > 2)
+        clauses.extend(
+            item for item in items
+            # FIX: added _is_signature_line guard, matching the filter already
+            # applied in _match_sentences, so signature fragments are discarded
+            # even when they slip through the length cap.
+            if len(item.split()) > 2 and not _is_signature_line(item)
+        )
 
     return list(dict.fromkeys(clauses))
 
