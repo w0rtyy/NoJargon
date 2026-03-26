@@ -33,12 +33,12 @@ Each form is processed through the following stages, all implemented from scratc
 
 For any consent form the tool produces five sections:
 
-- **Procedure** — detected procedure name, complexity label, urgency label
-- **Summary** — three key sentences selected by TextRank centrality
-- **Risks** — sentences containing risk disclosures, extracted by pattern matching
-- **Your Rights** — refusal and withdrawal clauses extracted by pattern matching
-- **Medical Terms Explained** — every detected jargon term with a plain-English definition
-- **Plain-English Version** — full text rewritten via the lexical substitution map
+- **Procedure** — detected procedure name, complexity label, urgency label.
+- **Summary** — three key sentences selected by TextRank centrality.
+- **Risks** — sentences containing risk disclosures, extracted by pattern matching.
+- **Your Rights** — refusal and withdrawal clauses extracted by pattern matching.
+- **Medical Terms Explained** — every detected jargon term with a plain-English definition.
+- **Plain-English Version** — full text rewritten via the lexical substitution map.
 
 Results can optionally be exported as a structured JSON file.
 
